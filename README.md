@@ -11,7 +11,7 @@ To run this project on your local machine, follow these steps:
 
 1. Clone this repository:
    
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/MissCheptoo/credit-card-fraud-detection.git
 
 
 2. Install the required dependencies:
